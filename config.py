@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # توكن البوت
-BOT_TOKEN = os.getenv('BOT_TOKEN', 'ضع_التوكن_هنا')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8572415537:AAFM-WBWBa0kSG3SxFXWfTa07sBvvdGNjdM')
 
 # معرف المطور (اختياري)
 DEVELOPER_ID = os.getenv('DEVELOPER_ID', '')
